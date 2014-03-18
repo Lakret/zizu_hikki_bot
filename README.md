@@ -1,4 +1,4 @@
-zizu_hikkit_bot
+zizu_hikki_bot
 ===============
 
 To run it:
@@ -18,4 +18,4 @@ To run it:
     appkey,appsecret,accessToken,accessTokenSecret
 ```
 
-4. Run `node index.js`
+4. Run `node src/index.js`
