@@ -23,6 +23,13 @@
   },
   "dependencies": {
     "ntwitter": "~0.5.0",
-    "async": "~0.2.10"
+    "async": "~0.2.10",
+    "cli": "~0.4.5",
+    "oauth": "~0.9.11",
+    "lodash": "~2.4.1",
+    "yargs": "~1.2.1",
+    "request": "~2.34.0",
+    "pretty-print": "~0.3.0",
+    "string": "~1.8.0"
   }
 }
